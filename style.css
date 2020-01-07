@@ -37,6 +37,7 @@ a {
     align-items: center;
     min-height: 20px;
     background-color: var(--green);
+    border: 1px solid #FFFFFF;
     width: 100%;
     padding: 0;
 }
